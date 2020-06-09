@@ -1,15 +1,15 @@
-# Project Name
+# Stress Test
 **for Epicodus**
-**By Peter Grimm, 05.29.2020**
+**By Peter Grimm, Kate Skorija 06.09.2020**
 
 ## Description
 
-Insert description here
+Stress test page to practice gathering data with checkboxes.
 
 ## Setup/Installation Requirements
 
 * Clone this repository 
-* Browse to the ` ` folder
+* Browse to the `stress-test` folder
 * Open `index.html` in a browser of your choice
 
 ## Technologies Used
@@ -21,5 +21,5 @@ jQuery
 
 ## Legal
 
-Copyright (c) 2020, **_Peter Grimm_**  
+Copyright (c) 2020, **_Peter Grimm_** & **_Kate Skorija_**  
 This software is licensed under the MIT license.
